@@ -1,4 +1,4 @@
-# sapproject
+# SAP Project
 # College Notes Assistant (Local GPT)
 
 An AI-powered system that allows users to upload PDF notes and ask questions using a local language model.
