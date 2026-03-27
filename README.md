@@ -73,3 +73,8 @@ This is a **Retrieval-Augmented Generation (RAG)** system using pre-trained mach
 
 Students spend a lot of time manually searching through notes.  
 This project automates that process using AI, improving efficiency and productivity.
+
+---
+## Demo
+![App Screenshot](Screenshot 2026-03-27 123840.png)
+
