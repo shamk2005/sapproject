@@ -76,5 +76,4 @@ This project automates that process using AI, improving efficiency and productiv
 
 ---
 ## Demo
-![App Screenshot](Screenshot 2026-03-27 123840.png)
-
+![App Screenshot](screenshot.png)
